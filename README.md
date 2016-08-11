@@ -1,2 +1,0 @@
-# betastream.github.io
-Beastream 
